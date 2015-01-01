@@ -1,7 +1,7 @@
 javascript-equality-test
 ========================
 
-Testing various different javascript equalities.
+Testing various different javascript equalities. A brief explanation can be found on my [blog](http://hyharryhuang.com/2015/01/01/javascript-equality/).
 
 Results:
 
